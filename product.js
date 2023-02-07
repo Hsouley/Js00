@@ -1,6 +1,2 @@
-let a=2;
-let b=3;
-let c=4;
-let result=a*b*c;
 
-console.log(result);
+console.log(10*3*25);
