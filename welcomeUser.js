@@ -1,2 +1,2 @@
-let user="John";
-console.log('Hello '+user);
+userNane='John';
+console.log('Welcom', userNane);
